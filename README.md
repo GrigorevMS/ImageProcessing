@@ -1,4 +1,1 @@
 # ImageProcessing
-
-* лул
-  * лул
