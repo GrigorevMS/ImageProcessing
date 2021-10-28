@@ -1,0 +1,65 @@
+Predmet | Kol-vo lekciy | Kol-vo praktik | Kol-vo laboratornich | Kol-vo semestrov |
+63
+Istoriya | 32 | 0 | 0 | 1 |
+Filosofiya | 32 | 0 | 0 | 1 |
+Ekonomika | 16 | 0 | 0 | 1 |
+Inostranniy yazik | 0 | 96 | 0 | 3 |
+Vischaya matematika | 128 | 128 | 0 | 3 |
+Diskretnaya matematika | 64 | 64 | 0 | 2 |
+Matematicheskaya logika i teoriya algoritmov | 32 | 32 | 0 | 3 |
+Teoriya avtomatov i formalnich yazikov | 32 | 32 | 0 | 1 |
+Teoriya veroyatnostey i matematicheskaya statistika | 64 | 64 | 0 | 2 |
+Informatika i programmirovaniye | 96 | 64 | 64 | 2 |
+Architektura vichislitelnich system | 48 | 0 | 16 | 1 |
+Operacionnie systemi | 48 | 16 | 0 | 1 |
+Technologiya baz dannich | 32 | 32 | 0 | 1 |
+Ekonomika v programmnoy injenerii | 32 | 16 | 0 | 1 |
+Vvedeniye v programmnuyu injeneriyu | 32 | 0 | 0 | 1 |
+Fizkultura | 8 | 52 | 0 | 1 |
+BJD | 16 | 16 | 0 | 1 |
+Pravovedeniye | 16 | 0 | 0 | 1 |
+Socialno-eticheskie voprosi v IT | 16 | 0 | 16 | 1 |
+Estestvoznanie | 32 | 32 | 0 | 1 |
+Fizika | 32 | 16 | 0 | 1 |
+Osnovi bezopasnosti IT | 24 | 0 | 0 | 1 |
+Metodi optimizacii | 48 | 32 | 0 | 2 |
+Issledovaniye operaciy | 48 | 24 | 0 | 1 |
+Kompyuternie seti | 16 | 16 | 0 | 1 |
+Vvedeniye v specialnost | 16 | 0 | 0 | 1 |
+Chislennie metodi | 32 | 32 | 0 | 1 |
+Teoria system i systemniy analiz | 24 | 0 | 0 | 1 |
+Technologii vizualnogo programmirovaniya | 16 | 0 | 32 | 1 |
+Java | 32 | 0 | 16 | 1 |
+Parallelnoye programmirovanie | 32 | 0 | 32 | 2 |
+Technologii seti Internet | 16 | 0 | 16 | 1 |
+Razrabotka i analiz trebovaniy | 16 | 16 | 0 | 1 |
+Programmirovaniye robotov | 16 | 32 | 0 | 1 |
+Testirovanie programmnogo obespecheniya | 16 | 0 | 16 | 1 |
+Upravlenie programmnimi proektami | 16 | 0 | 32 | 1 |
+Fizkultura i sport | 0 | 192 | 0 | 3 |
+Technologii raspredelennoy obrabotki | 24 | 0 | 12 | 1 |
+Konstruirovanie PO | 16 | 16 | 0 | 1 |
+Proektirovaniye i architektura programmnich system | 16 | 16 | 0 | 1 |
+AiSD | 64 | 64 | 64 | 2 |
+Instrumenti programmirovaniya | 32 | 0 | 0 | 1 |
+Komputarnaya grafika | 32 | 0 | 32 | 1 |
+Proektirovaniye cheloveko maschinnogo interfeysa| 16 | 0 | 16 | 1 |
+Systemi komputernoy matematiki | 16 | 0 | 16 | 1 |
+Vvedeniye v IoT | 16 | 0 | 32 | 1 |
+Dokumentirovanie PO | 16 | 0 | 32 | 1 |
+Technologii IoT | 16 | 0 | 32 | 1 |
+Upravleniye systemami telekomunikaciy | 16 | 16 | 0 | 1 |
+Obrabotka izobrajeniy | 32 | 0 | 16 | 1 |
+Programmirovaniye na novich architekturach | 16 | 32 | 0 | 1 |
+Osnovi komputernogo zreniya | 16 | 16 | 0 | 1 |
+Oblachniye vichisleniya | 12 | 0 | 12 | 1 |
+Razrabotka setevich prilojeniy(Java) | 16 | 0 | 16 | 1 |
+Nagladniy veroyatnostno-statistichesliy analiz dannich | 24 | 12 | 0 | 1 |
+Teoriya vibora i prinatiya rescheniy | 24 | 12 | 0 | 1 |
+Programmirovaniye mobilnich system | 32 | 16 | 0 | 1 |
+Systemi podderjki prinatiya rescheniy | 32 | 16 | 0 | 1 |
+Oznakomitelnaya praktika | 0 | 4 | 0 | 1 |
+Technologicheskaya praktika | 0 | 4 | 0 | 1 |
+Nauchno-issledovatelskaya rabota | 0 | 4 | 0 | 1 |
+Preddiplomnaya praktika | 0 | 4 | 0 | 1 |
+VKR | 0 | 0 | 0 | 1 |
