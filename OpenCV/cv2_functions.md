@@ -67,7 +67,7 @@ img.**shape**</br>
 ## Вращение и смещение
 
 (h, w) = img.**shape**[:2]</br>
-center = ((int(w / 2), int(h / 2)))</br></br>
+center = ((int(w / 2), int(h / 2)))
 
 rotation_matrix = cv.**getRotationMatrix2D**(center, 45, 0.6)</br>
 rotated = cv.**warpAffine**(img, rotation_matrix, (w, h))
