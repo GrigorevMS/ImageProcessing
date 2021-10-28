@@ -4,8 +4,6 @@
 
 Библиотека OpenCV хранит каналы формата RGB в обратном порядке BGR: синий, зеленый и красный.
 
-
-
 ## Подключение библиотеки
 
 import cv2 as cv
@@ -75,3 +73,23 @@ rotated = cv.**warpAffine**(img, rotation_matrix, (w, h))
 cv.**getRotationMatrix2D**([центр вращения], [угол поворота], [коэфицент увеличени изображения])
 
 cv.**warpAffine**([изображение], [матрицы поворота], [размеры изображения])
+
+## Размытие 
+
+kernel = cv.getStructuringElement(cv.MORPH_ELLIPSE, (7, 7))</br>
+image_erode = cv.erode(image, kernel)
+
+cv.**getStructuringElement**([тип элемента мат.марфологии], [(размер 1, размер 2)]) - возвращает ядро мат.марфологии(матрицу нулей и единиц)
+
+cv.**erode**([изображение], [ядро мат. марфологии]) - произовдит размытие на основе ядра
+
+## Изменение цветового пространства
+
+hsv_img = cv.cvtColor(erimg, cv.COLOR_BGR2HSV)</br>
+cv.imshow("2_2.jpg", hsv_img)
+
+hsv_img = cv.cvtColor(erimg, cv.COLOR_BGR2GRAY)</br>
+cv.imshow("2_3.jpg", hsv_img)
+
+cv.**cvtColor**([изображение], [из какого в какое]) - вернет изображение переведенное в другое цветовое пространство
+
